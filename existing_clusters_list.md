@@ -56,6 +56,8 @@ construction site at Project Glory (50 Market Street)
 
 Sungei Tengah Lodge (500 Old Choa Chu Kang Road)
 
+Toh Guan Dormitory (19A Toh Guan Road East)
+
 Cochrane Lodge II (49 Admiralty Road West)
 
 The Orange Ballroom (845 Geylang Road)
