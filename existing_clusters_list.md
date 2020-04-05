@@ -61,3 +61,9 @@ Toh Guan Dormitory (19A Toh Guan Road East)
 Cochrane Lodge II (49 Admiralty Road West)
 
 The Orange Ballroom (845 Geylang Road)
+
+Tampines Dormitory (2 Tampines Place)
+
+Cochrane Lodge I (51 Admiralty Road West)
+
+construction site at 6 Battery Road
