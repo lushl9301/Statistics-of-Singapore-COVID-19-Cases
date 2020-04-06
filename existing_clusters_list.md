@@ -67,3 +67,7 @@ Tampines Dormitory (2 Tampines Place)
 Cochrane Lodge I (51 Admiralty Road West)
 
 construction site at 6 Battery Road
+
+Little Gems Preschool (3 Ang Mo Kio Street 62)
+
+Kranji Lodge (12 Kranji Road)
