@@ -23,12 +23,7 @@ def analyze_line(s):
     :param s:
     :return:
     """
-    s = s.strip()
-    s = remove_age(s)
-    s = remove_date(s)
-    s = remove_time(s)
-    s = remove_covid(s)
-
+    s = clean_line(s)
     print(s)
 
     ### case 1 & 2

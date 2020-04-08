@@ -69,3 +69,21 @@ def remove_covid(s):
     if t:
         s = t
     return s
+
+def replace_cluster_name(s):
+    pass
+
+
+def clean_line(s):
+    """
+    Type 1: [Cc]ase[s] \d+ is\are linked to [Cc]ase[s] \d+
+    Type 2: Case \d+ is a \d+ year-old .+ is linked to [Cc]ase
+    :param s:
+    :return:
+    """
+    s = s.strip()
+    s = remove_age(s)
+    s = remove_date(s)
+    s = remove_time(s)
+    s = remove_covid(s)
+    return s
