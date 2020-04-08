@@ -16,7 +16,7 @@ Wizlearn Technologies Pte Ltd (10 Science Park Road)
 
 private dinner function at SAFRA Jurong
 
-clusters at boulder+ Gym and Church of Singapore (Bukit Timah)
+boulder+ Gym (12 Kallang Avenue)
 
 Masjid Al Muttaqin
 
@@ -45,8 +45,6 @@ Mustafa Centre (145 Syed Alwi Road)
 construction site at Maxwell MRT station (50 Neil Road)
 
 Keppel Shipyard (51 Pioneer Sector 1)
-
-Lee Ah Mooi Old Age Home (1 Thomson Lane)
 
 Ce La Vi (1 Bay Front Avenue)
 
