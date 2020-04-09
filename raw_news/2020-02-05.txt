@@ -27,11 +27,11 @@
 
  Case 26
 
- 10. Case 26 is a 42 year-old female Chinese national who arrived in Singapore from Wuhan on 21 January, and is the daughter of Case 13[47][1]. As she was symptomatic, she was conveyed by ambulance to NCID on the same day as her mother, and immediately isolated. She is currently warded in an isolation room at NCID. Subsequent test results confirmed 2019-nCoV infection on 4 February at about 8pm.
+ 10. Case 26 is a 42 year-old female Chinese national who arrived in Singapore from Wuhan on 21 January, and is the daughter of Case 13[46][1]. As she was symptomatic, she was conveyed by ambulance to NCID on the same day as her mother, and immediately isolated. She is currently warded in an isolation room at NCID. Subsequent test results confirmed 2019-nCoV infection on 4 February at about 8pm.
 
  Cases 27 and 28
 
- 11. Cases 27 and 28 are family members of Case 19[48][2] who have no recent travel history to China. Case 27 is a 45 year-old male Singapore Citizen who is the husband of Case 19. He was tested positive for 2019-nCoV infection on 5 February at about 2pm, and is currently warded in an isolation room at NCID.
+ 11. Cases 27 and 28 are family members of Case 19[47][2] who have no recent travel history to China. Case 27 is a 45 year-old male Singapore Citizen who is the husband of Case 19. He was tested positive for 2019-nCoV infection on 5 February at about 2pm, and is currently warded in an isolation room at NCID.
 
  12. Case 28 is a six month-old male Singapore Citizen who is the child of Cases 19 and 27. He was tested positive for 2019-nCoV infection on 5 February at about 2pm, and is currently warded in an isolation room at KK Women’s and Children’s Hospital.
 
@@ -39,7 +39,7 @@
 
  Overseas cases who had been in Singapore
 
- 14. The local cluster of transmission (involving Cases 19, 20, 21, 24, 25, 27 and 28) can be traced to contact with a tour group from Guangxi comprising 20 tourists who had visited Singapore from 22 to 23 January, and on 27 January (transit from 3am to 6am). The Chinese health authorities have confirmed that two travellers from the group have since been confirmed with 2019-nCoV infection.
+ 14. The local cluster of transmission (involving Cases 19, 20, 21, 24, 25, 27 and 28) can be traced to contact with a tour group from Guangxi comprising 20 tourists who had visited Singapore from 22 to 23 January, and on 27 January (transit from 3 to 6am). The Chinese health authorities have confirmed that two travellers from the group have since been confirmed with 2019-nCoV infection.
 
  15. Besides Yong Thai Hang (24 Cavan Road) and Diamond Industries Jewellery Company (Harbour Drive), the tour group also visited Meeting You Restaurant (14 Hamilton Road), Royal Dragon Restaurant (2 Havelock Road), T Galleria by DFS (25 Scotts Road) and D’Resort @ Downtown East (1 Pasir Ris Close). It has been almost 14 days since the tourists visited these places. We have reached out to 142 contacts, and all but one are well. The person has been isolated as a suspect case and test results are pending.
 
@@ -79,9 +79,9 @@
  26. MOH will continue to monitor the situation closely. As medical practitioners are on the lookout for suspect cases who have recently been in China, Singapore is likely to see more cases that will need to be investigated.
  ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
- [49][1] The 13^th confirmed case is a 73 year-old female Chinese national who arrived in Singapore from Wuhan on 21 January, and was tested positive for 2019-nCoV on 30 January.
+ [48][1] The 13^th confirmed case is a 73 year-old female Chinese national who arrived in Singapore from Wuhan on 21 January, and was tested positive for 2019-nCoV on 30 January.
 
- [50][2] Case 19 is a 28 year-old female Singapore resident who has no recent travel history to China. She was tested positive for 2019-nCoV on 3 February.
+ [49][2] Case 19 is a 28 year-old female Singapore resident who has no recent travel history to China. She was tested positive for 2019-nCoV on 3 February.
 
  Category: Highlights Press Releases
 

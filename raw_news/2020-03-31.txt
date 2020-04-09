@@ -9,7 +9,7 @@
  a) Four of the newly confirmed cases (Cases 922, 924, 925 and 926) are linked to a previous case (Case 875), forming a new cluster at Westlite Toh Guan dormitory (18 Toh Guan Road East).
  b) One additional case is linked to the cluster at SingPost Centre (10 Eunos Road 8), which has a total of six confirmed cases now (Cases 581, 689, 724, 740, 796 and 881).
  4. Contact tracing is underway for 93 locally transmitted cases to establish any links to previous cases or travel history to affected countries or regions. In the past week^[4], MOH has uncovered links for 33 previously unlinked cases.
- 5. Please refer to the [47]Annex for a summary of the confirmed cases.
+ 5. Please refer to the [46]Annex for a summary of the confirmed cases.
  Cases from public healthcare sector
  6. Case 891 is a 22 year-old male Indian national who is a Long Term Pass holder with no recent travel history. He reported onset of symptoms on 29 March, and subsequent test results confirmed COVID-19 infection on 30 March afternoon. He is currently warded in an isolation room at Changi General Hospital (CGH).
  7. He is employed as a housekeeper at CGH. Prior to hospital admission, he had gone to work for about two hours on 30 March.

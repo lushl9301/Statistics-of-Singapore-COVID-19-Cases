@@ -21,7 +21,7 @@
  h) Seven of the confirmed cases (Cases 439, 678, 793, 818, 848, 864 and 873) are linked to a new cluster at Wilby Residences (25 Wilby Road).
  i) Five of the confirmed cases (Cases 192, 556, 657, 670 and 813) are linked to a new cluster at Hero’s (69 Circular Road).
  4. Contact tracing is underway for 79 locally transmitted cases to establish any links to previous cases or travel history to affected countries or regions.
- 5. Please refer to the [47]Annex for a summary of the confirmed cases.
+ 5. Please refer to the [46]Annex for a summary of the confirmed cases.
  Cases from public healthcare sector
  6. Case 853 is a 20 year-old male Malaysian national who is a Singapore Work Pass holder, and had been in Malaysia from 16 March to 17 March. He reported onset of symptoms on 28 March, and subsequent test results confirmed COVID-19 infection on 29 March afternoon. He is currently warded in an isolation room at the National Centre for Infectious Diseases.
  7. He is employed as a porter at NCID, and had not gone to work after onset of symptoms.

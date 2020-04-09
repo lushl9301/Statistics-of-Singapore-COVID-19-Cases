@@ -3,7 +3,7 @@
  2. Thus far all our previously announced confirmed cases have been either PRC travellers from Hubei, or individuals with links to PRC travellers. All such cases have been isolated and ring-fenced. But we must be prepared for the possibility of new infection clusters involving locals within the community, not linked with recent travel to China or contact with recent PRC travellers. This has already happened in several places outside of mainland China. We had earlier stepped up significantly our precautionary measures to reduce the risk of community spread of the virus. We stand ready to ramp up our measures even more once we have some findings from the ongoing investigations.
  About the confirmed cases
  Cases 27 and 28 (announced on 5 February)
- 3. Cases 27 and 28 are family members of Case 19[47][1] who were confirmed to have 2019-nCoV infection on 5 February at about 2pm.
+ 3. Cases 27 and 28 are family members of Case 19[46][1] who were confirmed to have 2019-nCoV infection on 5 February at about 2pm.
  4. Case 27 reported that he developed symptoms on 1 February. He visited a general practitioner (GP) clinic on 2 February and was subsequently isolated at the National Centre for Infectious Diseases (NCID) on 4 February. Prior to hospital admission, he stayed at his home at Jalan Bukit Merah and worked as a private hire driver. He indicated that he had visited Tiong Bahru Plaza, Tiong Bahru Market and Beo Crescent Market and Food Centre. The risk of infection from transient contact, such as on public transport or in public places, is assessed to be low.
  5. Case 28 was cared for at home and was not in any infant care facility prior to hospital admission.
  Case 29
@@ -34,7 +34,7 @@
 
  ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
- [48][1] Case 19 is a 28 year-old female Singapore resident who has no recent travel history to China. She was tested positive for 2019-nCoV on 3 February.
+ [47][1] Case 19 is a 28 year-old female Singapore resident who has no recent travel history to China. She was tested positive for 2019-nCoV on 3 February.
 
  Category: Press Releases Highlights
 

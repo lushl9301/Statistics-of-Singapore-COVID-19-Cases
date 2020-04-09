@@ -9,7 +9,7 @@
 
  3. The 13^th confirmed case was announced on 30 January. The case is a 73 year-old female Chinese national who arrived in Singapore from Wuhan on 21 January. She is currently warded in an isolation room at the National Centre for Infectious Diseases (NCID).
 
- 4. The case reported that she was asymptomatic during her flight to Singapore. She was a close contact of the second confirmed case[47][1], and multiple attempts were made to contact her immediately. She was located on 28 January, and reported having developed symptoms on the same day. She was conveyed by an ambulance to NCID, where she was immediately isolated. Subsequent test results confirmed Wuhan coronavirus infection on 30 January at about 2pm.
+ 4. The case reported that she was asymptomatic during her flight to Singapore. She was a close contact of the second confirmed case[46][1], and multiple attempts were made to contact her immediately. She was located on 28 January, and reported having developed symptoms on the same day. She was conveyed by an ambulance to NCID, where she was immediately isolated. Subsequent test results confirmed Wuhan coronavirus infection on 30 January at about 2pm.
 
  5. Prior to hospital admission, the case stayed at ParkRoyal Collection Pickering (3 Upper Pickering Street) and Oasia Hotel Downtown (100 Peck Seah Street). She indicated that she had visited Changi Airport and Jewel, and had travelled on private transport and taxi. The risk of infection from transient contact, such as on public transport or in public places, is assessed to be low.
 
@@ -65,7 +65,7 @@
 
  ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
- [48][1] The second case is 53 year-old female Chinese national from Wuhan who arrived in Singapore on 21 January 2020.
+ [47][1] The second case is 53 year-old female Chinese national from Wuhan who arrived in Singapore on 21 January 2020.
 
  Category: Highlights Press Releases
 

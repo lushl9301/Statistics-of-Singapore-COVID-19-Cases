@@ -42,7 +42,7 @@
 
  Case 84
 
- 11. Case 84 is a 35 year-old female Singapore Citizen with no recent travel history to China. She was confirmed to have COVID-19 infection on 19 February morning, and is currently warded in an isolation room at NCID. She is linked to Case 66[47][1].
+ 11. Case 84 is a 35 year-old female Singapore Citizen with no recent travel history to China. She was confirmed to have COVID-19 infection on 19 February morning, and is currently warded in an isolation room at NCID. She is linked to Case 66[46][1].
 
  Case 80 (Announced on 18 February)
 
@@ -90,7 +90,7 @@
  19 FEBRUARY 2020
  ___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
- [48][1] Case 66 is a 28 year-old male Singapore Citizen with no recent travel history to China. He is linked to the cluster at Grace Assembly of God.
+ [47][1] Case 66 is a 28 year-old male Singapore Citizen with no recent travel history to China. He is linked to the cluster at Grace Assembly of God.
 
  Category: Press Releases
 

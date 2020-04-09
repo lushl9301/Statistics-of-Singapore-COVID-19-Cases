@@ -17,7 +17,7 @@
  h) One additional case is linked to the cluster at Hero’s (69 Circular Road), which has a total of eight confirmed cases now (Cases 192, 556, 657, 670, 714, 813, 940, 1013).
  i) One additional case is linked to the cluster at PCF Sparkletots Preschool @ Fengshan Blk 126 (126 Bedok North Street 2), which has a total of 27 confirmed cases^[5] now. The case is a family member of Case 601.
  4. Contact tracing is underway for 118 locally transmitted cases to establish any links to previous cases or travel history to affected countries or regions.
- 5. Please refer to the [47]Annex for a summary of the confirmed cases.
+ 5. Please refer to the [46]Annex for a summary of the confirmed cases.
 
  Cases from public healthcare sector
  Case 1028

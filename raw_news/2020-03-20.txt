@@ -42,7 +42,7 @@
  * Case 368 is linked to Cases 294, 225 and 237.
 
  5. Contact tracing is underway for the other 24 locally transmitted cases to establish any links to previous cases or travel history to affected countries or regions.
- 6. Please refer to the [47]ANNEX for a summary of the confirmed cases.
+ 6. Please refer to the [46]ANNEX for a summary of the confirmed cases.
  Update on condition of confirmed cases
  7. To date, a total of 131 cases have fully recovered from the infection and have been discharged from hospital. Of the 254 confirmed cases who are still in hospital, most are stable or improving. 16 are in critical condition in the intensive care unit.
  Update on contact tracing for confirmed cases
