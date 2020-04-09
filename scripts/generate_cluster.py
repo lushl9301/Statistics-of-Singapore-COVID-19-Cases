@@ -1,7 +1,15 @@
-import sys
 from common import *
 import os
 import csv
+import networkx as nx
+import matplotlib.pyplot as plt
+
+from random import seed
+from random import randint
+import math
+# seed random number generator
+seed(0)
+
 
 name2abv = {}
 abv2name = {}
@@ -21,7 +29,7 @@ for row in reader:
         s = name.split(" ")[0:5]
         name = " ".join(s)
     name2abv[name] = row[0]
-    abv2name[row[0]] = row[1]
+    abv2name[row[0]] = name
 
 
 def process_file(filename):
@@ -120,3 +128,44 @@ for filename in files:
 # s = process_file("2020-03-28.txt")
 for item in cluster.items():
     print(abv2name[item[0]] + ",", sorted(item[1]))
+
+## draw clustering
+G = nx.Graph()
+for item in cluster.items():
+    G.add_node(abv2name[item[0]])
+    for i in item[1]:
+        G.add_node(i)
+        G.add_edge(abv2name[item[0]], i)#, weight=randint(1, 10) * 300)
+
+graph_pos = nx.spring_layout(G, scale=50, k=1.5/math.sqrt(G.order()))
+
+cl = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd', '#8c564b', '#e377c2', '#7f7f7f', '#bcbd22', '#17becf']
+c = 0
+for item in cluster.items():
+    nx.draw_networkx_nodes(G,graph_pos,
+                       nodelist=[abv2name[item[0]]],
+                       node_color='grey',
+                       # node_size=1000,
+                   alpha=0.2)
+    nx.draw_networkx_labels(G, graph_pos, labels={abv2name[item[0]] : abv2name[item[0]]}, font_size=4, font_family='sans-serif')
+
+    nx.draw_networkx_nodes(G,graph_pos,
+                       nodelist=sorted(item[1]),
+                       node_color=cl[c],
+                       node_size=15,
+                   alpha=0.6)
+    nx.draw_networkx_labels(G, graph_pos, labels=dict(zip(sorted(item[1]), sorted(item[1]))), font_size=1, font_family='sans-serif')
+    c = (c + 1) % 10
+options = {
+    'node_color': 'black',
+    'node_size': 5,
+    'line_color': 'grey',
+    'linewidths': 0,
+    'width': 0.1,
+}
+
+# nx.draw_networkx_nodes(G, graph_pos, node_size=1, node_color='blue', alpha=0.3)
+nx.draw_networkx_edges(G, graph_pos, width=0.5, alpha=0.7)
+
+plt.savefig('cluster_visualization.png', dpi=1000)
+plt.savefig('cluster_visualization.pdf')
