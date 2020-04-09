@@ -147,7 +147,7 @@ for item in cluster.items():
                        node_color='grey',
                        # node_size=1000,
                    alpha=0.2)
-    nx.draw_networkx_labels(G, graph_pos, labels={abv2name[item[0]] : abv2name[item[0]]}, font_size=4, font_family='sans-serif')
+    nx.draw_networkx_labels(G, graph_pos, labels={abv2name[item[0]] : abv2name[item[0]]}, font_size=6, font_family='sans-serif')
 
     nx.draw_networkx_nodes(G,graph_pos,
                        nodelist=sorted(item[1]),
