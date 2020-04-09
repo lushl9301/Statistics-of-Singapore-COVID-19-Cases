@@ -1,140 +1,139 @@
-Life Church and Missions Singapore
+### Life Church and Missions Singapore
 
 Cases 8, 9, 31, 33, 38, 83, 90, 91, 138, 151
 
-Yong Thai Hang
+### Yong Thai Hang
 
 Cases 19, 20, 21, 24, 25, 27, 28, 34, 40
 
-Grand Hyatt Singapore
+### Grand Hyatt Singapore
 
 Cases 30, 36, 39
 
-Seletar Aerospace Heights construction site
+### Seletar Aerospace Heights construction site
 
 Cases 42, 47, 52, 56, 69
 
-Grace Assembly of God
+### Grace Assembly of God
 
 Cases 48, 49, 51, 53, 54, 57, 58, 60, 61, 62, 63, 66, 67, 68, 70, 71, 73, 74, 78, 80, 81, 84, 88
 
-Wizlearn Technologies Pte Ltd
+### Wizlearn Technologies Pte Ltd
 
 Cases 93, 95, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 108, 110
 
-private dinner function at SAFRA Jurong
+### private dinner function at SAFRA Jurong
 
 Cases 94, 96, 107, 112, 114, 115, 116, 117, 118, 120, 121, 122, 125, 127, 128, 129, 130, 131, 133, 134, 137, 139, 140, 142, 144, 145, 146, 148, 149, 150, 155, 156, 157, 158, 159, 160, 161, 164, 166, 174, 179, 185, 186, 196, 201, 218, 224
 
-boulder+ Gym
+### boulder+ Gym
 
 Cases 142, 144, 162, 163, 305, 345, 443
 
-Church of Singapore (Bukit Timah)
+### Church of Singapore (Bukit Timah)
 
 Cases 144, 208, 214, 235, 283
 
-Masjid Al-Muttaqin
+### Masjid Al-Muttaqin
 
 Cases 183, 252, 310
 
-PCF Sparkletots Preschool @ Fengshan Blk 126
+### PCF Sparkletots Preschool @ Fengshan Blk 126
 
 Cases 516, 521, 566, 567, 572, 583, 584, 601, 602, 603, 604, 605, 609, 610, 612, 614, 617, 624, 638, 660, 705, 706, 707, 708, 716, 746, 1003
 
-Dover Court International School
+### Dover Court International School
 
 Cases 556, 618, 626, 662, 686, 713, 729, 761, 1098
 
-SingPost Centre
+### SingPost Centre
 
-Cases 581, 689, 724, 740, 796, 881, 1037, 1043
+### Cases 581, 689, 724, 740, 796, 881, 1037, 1043
 
-Wedding Brocade
+### Wedding Brocade
 
 Cases 745, 802, 810
 
-S11 Dormitory @ Punggol
+### S11 Dormitory @ Punggol
 
 Cases 826, 829, 852, 860, 946, 947, 966, 979, 982, 993, 1035, 1039, 1047, 1050, 1061, 1066, 1074, 1083, 1084, 1089, 1107, 1108, 1110, 1111, 1112, 1117, 1118, 1119, 1126, 1135, 1138, 1145, 1153, 1155, 1156, 1171, 1173, 1174, 1185, 1186, 1187, 1198, 1213, 1222, 1223, 1224, 1225, 1228, 1230, 1232, 1236, 1269, 1275, 1278, 1279, 1280, 1281, 1283, 1284, 1285, 1286, 1287, 1288, 1289, 1290, 1291, 1292, 1293, 1300, 1302, 1304, 1307, 1308, 1310, 1318, 1321, 1329, 1334, 1344, 1350, 1351, 1353, 1354, 1355, 1357, 1358, 1363, 1364, 1365, 1372, 1381, 1382, 1439, 1445, 1455, 1462, 1468, 1470, 1471, 1509, 1512, 1523, 1554, 1572, 1573, 1574, 1580, 1584, 1590, 1591, 1594, 1598, 1600, 1601, 1605, 1606, 1614, 1623
 
-Wilby Residences
+### Wilby Residences
 
 Cases 439, 678, 793, 818, 848, 864, 873, 980, 1075, 1415
 
-Hero’s
+### Hero’s
 
 Cases 192, 556, 657, 670, 714, 813, 940, 1013, 1097
 
-Westlite Toh Guan dormitory
+### Westlite Toh Guan dormitory
 
 Cases 655, 875, 922, 924, 925, 926, 934, 977, 1011, 1012, 1054, 1062, 1068, 1072, 1100, 1101, 1106, 1113, 1176, 1194, 1202, 1216, 1218, 1238, 1251, 1252, 1253, 1255, 1256, 1330, 1391, 1400, 1401, 1441, 1466, 1467, 1508, 1511, 1522
 
-Lee Ah Mooi Old Age Home
+### Lee Ah Mooi Old Age Home
 
 Cases 918, 973, 976, 983, 984, 985, 986, 987, 988, 989, 990, 1004, 1055, 1412, 1413, 1414
 
-dormitory at 55 Sungei Kadut Loop
+### dormitory at 55 Sungei Kadut Loop
 
 Cases 868, 972, 974, 1356, 1510
 
-Mustafa Centre
+### Mustafa Centre
 
 Cases 616, 770, 788, 799, 866, 908, 911, 938, 1001, 1015, 1024, 1025, 1026, 1046, 1056, 1093, 1096, 1127, 1169, 1180, 1188, 1189, 1199, 1200, 1201, 1209, 1214, 1219, 1246, 1259, 1260, 1277, 1282, 1295, 1315, 1316, 1326, 1340, 1343, 1361, 1385, 1387, 1417, 1422, 1431, 1433, 1435, 1443, 1487, 1489, 1507, 1528
 
-construction site at Maxwell MRT station
+### construction site at Maxwell MRT station
 
 Cases 869, 900, 1000, 1009, 1034, 1069
 
-Keppel Shipyard
+### Keppel Shipyard
 
 Cases 878, 898, 907, 1076, 1158, 1172, 1270, 1324, 1336, 1495, 1505, 1529
 
-Ce La Vi
+### Ce La Vi
 
 Cases 540, 807, 856, 1094, 1266
 
-Cricket Club
+### Cricket Club
 
 Cases 384, 670, 728, 792, 855, 1052
 
-construction site at Project Glory
+### construction site at Project Glory
 
 Cases 956, 967, 1019, 1065, 1078, 1079, 1104, 1120, 1124, 1149, 1162, 1164, 1181, 1191, 1226, 1271, 1273, 1341, 1346, 1349, 1421, 1448, 1449, 1486, 1514, 1531, 1575, 1577
 
-Sungei Tengah Lodge
+### Sungei Tengah Lodge
 
 Cases 1054, 1077, 1124, 1267, 1306, 1319, 1342, 1362, 1367, 1388, 1396, 1411, 1430, 1438, 1459, 1474, 1476, 1481, 1482, 1492, 1496, 1498, 1502, 1527, 1586, 1587, 1596, 1602, 1603
 
-Toh Guan Dormitory
+### Toh Guan Dormitory
 
 Cases 963, 1079, 1106, 1148, 1150, 1195, 1254, 1262, 1263, 1271, 1273, 1274, 1276, 1347, 1374, 1395, 1434, 1446, 1453, 1469, 1475, 1582, 1599
 
-Cochrane Lodge II
+### Cochrane Lodge II
 
 Cases 956, 967, 1018, 1104, 1240, 1349, 1394
 
-Orange Ballroom
+### Orange Ballroom
 
 Cases 510, 511, 1007, 1115
 
-Tampines Dormitory
+### Tampines Dormitory
 
 Cases 1049, 1140, 1193, 1226, 1261, 1299, 1313, 1314, 1327, 1373, 1410, 1440, 1442, 1454, 1457, 1458, 1479, 1571, 1576, 1581, 1608
 
-Cochrane Lodge I
+### Cochrane Lodge I
 
 Cases 1018, 1144, 1339, 1394, 1406, 1418, 1419, 1437
 
-construction site at 6 Battery Road
+### construction site at 6 Battery Road
 
 Cases 1012, 1049, 1183, 1184, 1314
 
-Little Gems Preschool
+### Little Gems Preschool
 
 Cases 1182, 1294, 1335
 
-Kranji Lodge
+### Kranji Lodge
 
 Cases 880, 1190, 1241, 1506, 1519, 1520
-
