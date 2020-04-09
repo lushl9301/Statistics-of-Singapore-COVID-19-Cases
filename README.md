@@ -1,5 +1,9 @@
 # Statistics-of-Singapore-COVID-19-cases
 
+
+![Visualization of Current Clusters](https://github.com/lushl9301/Statistics-of-Singapore-COVID-19-Cases/blob/master/cluster_visualization.png)
+
+
 [Existing Clusters](existing_clusters_list.md)  ||  [现有感染组群](existing_clusters_list_CN.md)
 
 --------------------
