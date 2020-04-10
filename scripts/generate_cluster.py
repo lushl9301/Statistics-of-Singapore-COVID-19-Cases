@@ -29,7 +29,7 @@ for row in reader:
         s = name.split(" ")[0:5]
         name = " ".join(s)
     name2abv[name] = row[0]
-    abv2name[row[0]] = name
+    abv2name[row[0]] = row[1]
 
 
 def process_file(filename):
@@ -126,8 +126,11 @@ for filename in files:
     print(filename)
     s = process_file(filename)
 # s = process_file("2020-03-28.txt")
+cluster_md = open("existing_clusters_list.md", "w")
 for item in cluster.items():
-    print(abv2name[item[0]] + ",", sorted(item[1]))
+    cluster_md.write("### " + abv2name[item[0]] + "\n\n")
+    cluster_md.write("Cases " + ", ".join([str(x) for x in sorted(item[1])]) + "\n\n")
+
 
 ## draw clustering
 G = nx.Graph()
