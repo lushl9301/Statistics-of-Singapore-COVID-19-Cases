@@ -38,8 +38,12 @@ def process_file(filename):
     :param f:
     :return:
     """
-    filename = "raw_news/" + filename
-    f = open(filename, "r")
+    try:
+        filename = "../raw_news/" + filename
+        f = open(filename, "r")
+    except:
+        filename = "raw_news/" + filename
+        f = open(filename, "r")
     lines = f.readlines()
     processed_lines = []
     for line in lines:
@@ -73,10 +77,16 @@ def process_file(filename):
             continue
         abv = m.group(1)
         m = re.search("total of .+ cases\^", line)
-        if not m:
+        n = re.search(" previous cases\^", line)
+        l = re.search(" confirmed cases\^", line)
+        if (not m) and (not n) and (not l):
             continue
         m = re.search("\^(\[\d+\])", line)
-        ref = m.group(1)
+        try:
+            ref = m.group(1)
+        except:
+            m = re.search("(\^\d+)", line)
+            ref = m.group(1)
         for t in processed_lines[::-1]:
             if ref in t:
                 t = t[len(ref) + 1:]
@@ -119,13 +129,15 @@ def process_file(filename):
         except:
             cluster[abv] = set(case_l)
 
-
-files = os.listdir("raw_news")
+try:
+    files = os.listdir("../raw_news")
+except:
+    files = os.listdir("raw_news")
 files.sort()
 for filename in files:
     print(filename)
     s = process_file(filename)
-# s = process_file("2020-03-28.txt")
+#s = process_file("2020-04-12.txt")
 cluster_md = open("existing_clusters_list.md", "w")
 for item in cluster.items():
     cluster_md.write("### " + abv2name[item[0]] + "\n\n")
