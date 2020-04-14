@@ -20,7 +20,7 @@ _wlb_,Wilby Residences,25 Wilby Road
 _hrs_,Hero’s,69 Circular Road
 _tgd1_,Westlite Toh Guan dormitory,18 Toh Guan Road East
 _lam_,Lee Ah Mooi Old Age Home,1 Thomson Lane
-_sgk_,dormitory at 55 Sungei Kadut Loop,55 Sungei Kadut Loop
+_sgk1_,55 Sungei Kadut Loop dormitory,55 Sungei Kadut Loop
 _mst_,Mustafa Centre,145 Syed Alwi Road
 _mxw_,construction site at Maxwell MRT station,50 Neil Road
 _kps_,Keppel Shipyard,51 Pioneer Sector 1
@@ -36,7 +36,7 @@ _ccr1_,Cochrane Lodge I,51 Admiralty Road West
 _btr_,construction site at 6 Battery Road,6 Battery Road
 _lil_,Little Gems Preschool,3 Ang Mo Kio Street 62
 _krl_,Kranji Lodge,12 Kranji Road
-_dsg_,dormitory at 31 Sungei Kadut Avenue,31 Sungei Kadut Avenue
+_sgk2_,31 Sungei Kadut Avenue dormitory,31 Sungei Kadut Avenue
 _ica_,ICA Building,10 Kallang Road
 _nuh_,National University Hospital,5 Lower Kent Ridge Road
 _wld_,Westlite Woodlands dormitory,2 Woodlands Sector 2
@@ -48,8 +48,9 @@ _wli_,36 Woodlands Industrial Park E1,36 Woodlands Industrial Park E1
 _kld_,85 Kallang Dormitory,85 Kallang Avenue
 _blt_,Black Tap,10 Bayfront Avenue
 _kyu_,Kenyon/ UBS construction site,9 Penang Road
-_mcd_,McDonald’s (outlets at Forum, Lido and Parklane),NA
+_mcd_,McDonald’s,NA (outlets at Forum, Lido and Parklane)
 _ctw_,CitiWall,34 Kaki Bukit Crescent
 _abc_,ABC Hostel,3 Jalan Kubor
 _tcp_,Tech Park Crescent dormitory,43 Tech Park Crescent
 _krd_,Kranji Dormitory,17 Kranji Way
+_snk_,Senoko,21B Senoko Loop and 13 Senoko Way

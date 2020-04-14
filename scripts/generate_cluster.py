@@ -25,8 +25,8 @@ reader = csv.reader(f)
 next(reader, None)
 for row in reader:
     name = row[1]
-    if name.count(" ") > 4:
-        s = name.split(" ")[0:5]
+    if name.count(" ") >= 4:
+        s = name.split(" ")[0:4]
         name = " ".join(s)
     name2abv[name] = row[0]
     abv2name[row[0]] = row[1]
@@ -69,11 +69,15 @@ def process_file(filename):
             cluster[abv].update(case_l)
         except:
             cluster[abv] = set(case_l)
-
+    try:
+        print(">>>>> ", cluster["_snk_"])
+    except:
+        pass
     # case 2: total of XXX confirmed cases^[\d+] now
     for line in processed_lines:
         m = re.search('(_.+?_)', line)
         if not m:
+            print(line)
             continue
         abv = m.group(1)
         m = re.search("total of .+ cases\^", line)
@@ -90,12 +94,14 @@ def process_file(filename):
         for t in processed_lines[::-1]:
             if ref in t:
                 t = t[len(ref) + 1:]
+                t = t[t.find(":") + 1 :]
                 case_l = [int(x) for x in re.findall(r"\d+", t)]
                 try:
                     cluster[abv].update(case_l)
                 except:
                     cluster[abv] = set(case_l)
                 break
+
     # case 3: .+ (Case[s] [\d+,,]+) is / are linked to xxx
     for line in processed_lines:
         sentence = re.findall('\(Case.+? linked to .+?\.+?', line)
@@ -111,6 +117,7 @@ def process_file(filename):
                 cluster[abv].update(case_l)
             except:
                 cluster[abv] = set(case_l)
+
     # case 4: (Case[s] [\d+,,]+) is / are linked to .+ previous case[s] (Case[s] [\d+,,]+), forming a new cluster at xxxx
     for line in processed_lines:
         sentence = re.findall('(\(Case.+?\).+?linked to.+?previous.+?\(Case.+?\).+?)(_.+?_)', line)
@@ -137,12 +144,11 @@ files.sort()
 for filename in files:
     print(filename)
     s = process_file(filename)
-#s = process_file("2020-04-12.txt")
+# s = process_file("2020-04-13.txt")
 cluster_md = open("existing_clusters_list.md", "w")
 for item in cluster.items():
     cluster_md.write("### " + abv2name[item[0]] + "\n\n")
     cluster_md.write("Cases " + ", ".join([str(x) for x in sorted(item[1])]) + "\n\n")
-
 
 ## draw clustering
 G = nx.Graph()
